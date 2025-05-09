@@ -25,7 +25,7 @@ on:
       KERNEL_NAME:
         description: "修改内核名称"
         required: true
-        default: '-android15-521'
+        default: '-android15-521-g013ec21bba94-abogki383916444'
 
 jobs:
   build:
